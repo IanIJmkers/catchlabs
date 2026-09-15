@@ -1,0 +1,86 @@
+/* ============================================================
+   CATCHLABS — DESIGN SYSTEM (browser build)
+
+   The agenda editor, re-set in CatchLabs' own art. The geometry,
+   the type-as-a-fraction-of-the-row rules and the depth planes are
+   the ones the Denna's Trading agenda proved out; what changes is
+   the voice. CatchLabs is red, black and off-white, geometric and
+   loud where Denna's was navy, gold and quiet.
+
+   Every measurement is authored in pixels on a fixed 1080-wide
+   artboard, and the page is only ever scaled with a transform, so
+   the exported PNG is always the pixel grid the layout was built on.
+   ============================================================ */
+
+/* ---------- 1. TYPEFACES (self-hosted — no CDN, no tracking) ----------
+   Archivo Black  the wide, heavy display face — BEURZEN, the dates
+   Oswald         the condensed bold for show names
+   Inter          labels, cities, running copy
+   Jost           the wordmark placeholder only, until the logo file
+                  arrives (geometric, lowercase, like the supplied
+                  reference) */
+@font-face{font-family:'Archivo Black';src:url('../fonts/ArchivoBlack-Regular.ttf') format('truetype');font-weight:400;font-display:block}
+@font-face{font-family:'Oswald';src:url('../fonts/Oswald-VariableFont_wght.ttf') format('truetype');font-weight:200 700;font-display:block}
+@font-face{font-family:'Jost';src:url('../fonts/Jost-VariableFont_wght.ttf') format('truetype');font-weight:100 900;font-display:block}
+@font-face{font-family:'Inter';src:url('../fonts/Inter-Regular.ttf') format('truetype');font-weight:400;font-display:block}
+@font-face{font-family:'Inter';src:url('../fonts/Inter-Medium.ttf') format('truetype');font-weight:500;font-display:block}
+@font-face{font-family:'Inter';src:url('../fonts/Inter-SemiBold.ttf') format('truetype');font-weight:600;font-display:block}
+
+/* ---------- 2. PALETTE ----------
+   Three brand values and three working greys. The marker blue is
+   the one colour that is NOT brand: it is what an unfilled field
+   prints in, and it has to be a colour the card never otherwise
+   uses so nothing invented can pass for finished. */
+:root{
+  --red:#C8161D;        /* lab red — the brand's one loud colour   */
+  --ink:#111111;        /* black — headline, names, the corner     */
+  --paper:#F7F6F3;      /* off-white field                         */
+  --white:#FFFFFF;      /* the QR ground and the label pill        */
+  --grey:#6E6E6E;       /* secondary type — 4.8:1 on paper         */
+  --rose:#E3C2C3;       /* red at 25% — hairlines between shows    */
+  --marker:#1E5BD8;     /* unfilled field — never brand            */
+}
+
+/* ---------- 3. TYPE ROLES ---------- */
+.display{
+  font-family:'Archivo Black',sans-serif;font-weight:400;
+  text-transform:uppercase;letter-spacing:0.01em;line-height:0.92;
+}
+.cond{
+  font-family:'Oswald',sans-serif;font-weight:600;
+  text-transform:uppercase;letter-spacing:0.03em;line-height:1;
+}
+.body{font-family:'Inter',sans-serif;font-weight:400;line-height:1.45;}
+.body-med{font-family:'Inter',sans-serif;font-weight:500;line-height:1.45;}
+.label{
+  font-family:'Inter',sans-serif;font-weight:600;
+  text-transform:uppercase;letter-spacing:0.18em;line-height:1;
+}
+.wordmark{font-family:'Jost',sans-serif;font-weight:700;letter-spacing:-0.02em;line-height:1;}
+/* ---------- 4. THE ARTBOARD ----------
+   1080 wide always; the height is the chosen format and is set by
+   Editor.setSize, which also rewrites the print page box. */
+.page{
+  position:relative;overflow:hidden;background:var(--paper);
+  width:1080px;height:1920px;
+  transform-origin:top left;
+}
+.page *{
+  margin:0;padding:0;box-sizing:border-box;
+  font-variant-numeric:tabular-nums lining-nums;
+  font-feature-settings:"tnum" 1,"lnum" 1;
+}
+
+/* ---------- 5. DEPTH PLANES (back to front) ----------
+   plane 1: field + the diagonal streaks, faded out of the middle
+   plane 2: the red sweep down the left edge and up the right,
+            with the black corners — the brand gesture, full strength
+   plane 3: content — type, rules, the QR
+   plane 4: reserved for anything that must ride above the sweep */
+.plane-1{position:absolute;inset:0;z-index:1;}
+.plane-2{position:absolute;inset:0;z-index:2;pointer-events:none;}
+.plane-3{position:absolute;inset:0;z-index:3;}
+.plane-4{position:absolute;inset:0;z-index:4;pointer-events:none;}
+
+.logo-slot svg{display:block}
+.logo-img{display:block;width:100%;height:auto}

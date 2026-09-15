@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CatchLabs — Agenda maken</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%23111%27/%3E%3Ccircle cx=%2716%27 cy=%2716%27 r=%2710%27 fill=%27%23C8161D%27/%3E%3Cpath d=%27M6 16h20%27 stroke=%27%23F7F6F3%27 stroke-width=%273%27/%3E%3Ccircle cx=%2716%27 cy=%2716%27 r=%273.5%27 fill=%27%23F7F6F3%27/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/system.css">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{
+    background:var(--paper);color:var(--ink);min-height:100vh;
+    font-family:'Inter',system-ui,sans-serif;display:flex;align-items:center;justify-content:center;padding:32px;
+  }
+  .wrap{max-width:720px;width:100%}
+  .eyebrow{font-weight:600;text-transform:uppercase;letter-spacing:.18em;font-size:12px;color:var(--red)}
+  h1{font-family:'Archivo Black',sans-serif;font-weight:400;text-transform:uppercase;
+     letter-spacing:.01em;font-size:56px;line-height:.95;margin:14px 0 10px}
+  .lead{color:var(--grey);line-height:1.6;max-width:52ch}
+  .hr{height:2px;background:var(--red);margin:26px 0}
+  .cards{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media (max-width:640px){.cards{grid-template-columns:1fr}h1{font-size:40px}}
+  a.card{
+    display:block;text-decoration:none;color:inherit;background:#fff;
+    border:1px solid rgba(17,17,17,.14);border-left:3px solid var(--red);
+    padding:20px;transition:border-color .15s ease,transform .15s ease;
+  }
+  a.card:hover{border-color:var(--red);transform:translateY(-2px)}
+  a.card h2{font-family:'Oswald',sans-serif;font-weight:600;text-transform:uppercase;
+            letter-spacing:.04em;font-size:22px;margin-bottom:6px}
+  a.card p{color:var(--grey);line-height:1.5;font-size:13px}
+  .note{margin-top:26px;font-size:12px;color:var(--grey);line-height:1.6;
+        border-left:3px solid rgba(17,17,17,.2);padding-left:12px}
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="eyebrow">CatchLabs — beurzen &amp; evenementen</div>
+    <h1>Agenda<br>maken</h1>
+    <p class="lead">Twee kaarten, één lijst met beurzen. Wat je bij de één invult,
+      staat meteen goed bij de ander. Download als PNG voor Instagram.</p>
+    <div class="hr"></div>
+    <div class="cards">
+      <a class="card" href="agenda.html">
+        <h2>Volledige agenda</h2>
+        <p>Alle beurzen op één kaart, verdeeld over twee kolommen met een jaarbalk waar het jaar wisselt.</p>
+      </a>
+      <a class="card" href="snapshot.html">
+        <h2>2 maanden</h2>
+        <p>Alleen wat er binnenkort is, groter gezet. De kaart om te posten als er een beurs aankomt.</p>
+      </a>
+    </div>
+    <p class="note">Je werk wordt bewaard in deze browser op dit apparaat.
+      Wil je het doorsturen of op een andere computer verder? Gebruik <strong>Opslaan</strong>
+      voor een bestand, of <strong>Deel link</strong> voor een link met alles erin.</p>
+  </div>
+</body>
+</html>

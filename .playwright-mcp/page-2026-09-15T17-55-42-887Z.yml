@@ -1,0 +1,390 @@
+- generic [ref=f4e2]:
+  - banner [ref=f4e3]:
+    - generic [ref=f4e4]: CatchLabs
+    - link "Volledige agenda" [ref=f4e5] [cursor=pointer]:
+      - /url: agenda.html
+    - link "2 maanden" [ref=f4e6] [cursor=pointer]:
+      - /url: snapshot.html
+    - group "Formaat" [ref=f4e7]:
+      - button "9:16" [ref=f4e8] [cursor=pointer]
+      - button "4:5" [ref=f4e9] [cursor=pointer]
+    - button "Voorbeeld" [ref=f4e11] [cursor=pointer]
+    - button "PNG downloaden" [ref=f4e13] [cursor=pointer]
+    - button "PDF / print" [ref=f4e14] [cursor=pointer]
+    - button "Opslaan" [ref=f4e16] [cursor=pointer]
+    - button "Openen" [ref=f4e17] [cursor=pointer]
+    - button "Deel link" [ref=f4e18] [cursor=pointer]
+    - button "Herstel" [ref=f4e19] [cursor=pointer]
+  - generic [ref=f4e20]:
+    - generic [ref=f4e21]:
+      - generic [ref=f4e23]:
+        - generic:
+          - generic: キャッチラボ
+          - generic [ref=f4e28]: コレクターのために。
+        - generic [ref=f4e29]:
+          - generic [ref=f4e30]: catchlabs
+          - generic [ref=f4e47]: BEURZEN
+          - generic [ref=f4e48]: WAAR JE ONS VINDT
+          - generic [ref=f4e49]: AUG ’26 — NOV ’26
+          - generic [ref=f4e52]:
+            - generic [ref=f4e53]: "2026"
+            - generic [ref=f4e54]: NAJAAR
+          - generic [ref=f4e56]: "14.08"
+          - generic [ref=f4e58]: CON-NXT
+          - generic [ref=f4e60]:
+            - generic [ref=f4e61]: Amsterdam
+            - generic [ref=f4e66]: VR
+          - generic [ref=f4e68]: "15.08"
+          - generic [ref=f4e70]: CON-NXT
+          - generic [ref=f4e72]:
+            - generic [ref=f4e73]: Almere
+            - generic [ref=f4e78]: ZA
+          - generic [ref=f4e80]: "30.08"
+          - generic [ref=f4e82]: RETRO GAMING BEURS
+          - generic [ref=f4e84]:
+            - generic [ref=f4e85]: Tilburg
+            - generic [ref=f4e90]: ZO
+          - generic [ref=f4e92]: "12.09"
+          - generic [ref=f4e94]: TCG COLLECTORSDAY
+          - generic [ref=f4e96]:
+            - generic [ref=f4e97]: Brussel
+            - generic [ref=f4e102]: ZA
+          - generic [ref=f4e104]: "13.09"
+          - generic [ref=f4e106]: TCG DAY
+          - generic [ref=f4e108]:
+            - generic [ref=f4e109]: Zoetermeer
+            - generic [ref=f4e114]: ZO
+          - generic [ref=f4e116]: 26–27.09
+          - generic [ref=f4e118]: ASSEN CARDSHOW
+          - generic [ref=f4e120]:
+            - generic [ref=f4e121]: Assen
+            - generic [ref=f4e126]: ZA–ZO
+          - generic [ref=f4e129]: "03.10"
+          - generic [ref=f4e131]: CON-NXT
+          - generic [ref=f4e133]:
+            - generic [ref=f4e134]: Essen
+            - generic [ref=f4e139]: ZA
+          - generic [ref=f4e141]: "04.10"
+          - generic [ref=f4e143]: DRACOON COLLECTORS EVENT
+          - generic [ref=f4e145]:
+            - generic [ref=f4e146]: ‹PLAATS›
+            - generic [ref=f4e151]: ZO
+          - generic [ref=f4e153]: 10–11.10
+          - generic [ref=f4e155]: CARDMANIA XXL
+          - generic [ref=f4e157]:
+            - generic [ref=f4e158]: Rosmalen
+            - generic [ref=f4e163]: ZA–ZO
+          - generic [ref=f4e165]: "17.10"
+          - generic [ref=f4e167]: TCG ROYALE
+          - generic [ref=f4e169]:
+            - generic [ref=f4e170]: Haarlem
+            - generic [ref=f4e175]: ZA
+          - generic [ref=f4e177]: "24.10"
+          - generic [ref=f4e179]: TCG MADNESS
+          - generic [ref=f4e181]:
+            - generic [ref=f4e182]: ‹PLAATS, BELGIË›
+            - generic [ref=f4e187]: ZA
+          - generic [ref=f4e189]: "25.10"
+          - generic [ref=f4e191]: COLLECTOR FANATICS
+          - generic [ref=f4e193]:
+            - generic [ref=f4e194]: Etten-Leur
+            - generic [ref=f4e199]: ZO
+          - generic [ref=f4e201]: 31.10–01.11
+          - generic [ref=f4e203]: XCLUSIVE COLLECTORS
+          - generic [ref=f4e205]:
+            - generic [ref=f4e206]: Tilburg
+            - generic [ref=f4e211]: ZA–ZO
+          - generic [ref=f4e214]:
+            - generic [ref=f4e215]: TOT OP DE BEURS
+            - generic [ref=f4e216]: Scan de code voor drops, restocks en alle kanalen.
+            - generic [ref=f4e217]:
+              - generic [ref=f4e218]: ‹@catchlabs›
+              - generic [ref=f4e219]: NEDERLAND · BELGIË
+        - generic "Bewerk deze beurs" [ref=f4e233] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e234] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e235] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e236] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e237] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e238] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e239] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e240] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e241] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e242] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e243] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e244] [cursor=pointer]
+        - generic "Bewerk deze beurs" [ref=f4e245] [cursor=pointer]
+      - group "Zoom" [ref=f4e246]:
+        - button "Passend" [ref=f4e247] [cursor=pointer]
+        - button "Breedte" [ref=f4e248] [cursor=pointer]
+        - button "100%" [ref=f4e249] [cursor=pointer]
+    - complementary [ref=f4e250]:
+      - generic [ref=f4e251]:
+        - button "Beurzen" [pressed] [ref=f4e252] [cursor=pointer]
+        - button "Kleuren" [ref=f4e253] [cursor=pointer]
+        - button "Tekst" [ref=f4e254] [cursor=pointer]
+      - generic [ref=f4e255]:
+        - paragraph [ref=f4e256]: De volgorde en de weekdag komen uit de datum — die typ je niet zelf. Klik een beurs op de kaart om hem hier te openen.
+        - generic [ref=f4e257]:
+          - generic [ref=f4e258]:
+            - generic [ref=f4e259]: "1"
+            - generic [ref=f4e260]: VR · 14.08.2026
+            - button "Verwijder deze beurs" [ref=f4e261] [cursor=pointer]: ✕
+          - generic [ref=f4e262]:
+            - generic [ref=f4e263]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e264]: CON-NXT
+          - generic [ref=f4e265]:
+            - generic [ref=f4e266]: Plaats
+            - textbox "Plaats" [ref=f4e267]: AMSTERDAM
+          - generic [ref=f4e268]:
+            - generic [ref=f4e269]:
+              - generic [ref=f4e270]: Datum
+              - textbox "Datum" [ref=f4e271]: 2026-08-14
+            - generic [ref=f4e272]:
+              - generic [ref=f4e273]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e274]
+              - generic [ref=f4e275]: alleen bij 2 dagen
+        - generic [ref=f4e276]:
+          - generic [ref=f4e277]:
+            - generic [ref=f4e278]: "2"
+            - generic [ref=f4e279]: ZA · 15.08.2026
+            - button "Verwijder deze beurs" [ref=f4e280] [cursor=pointer]: ✕
+          - generic [ref=f4e281]:
+            - generic [ref=f4e282]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e283]: CON-NXT
+          - generic [ref=f4e284]:
+            - generic [ref=f4e285]: Plaats
+            - textbox "Plaats" [ref=f4e286]: ALMERE
+          - generic [ref=f4e287]:
+            - generic [ref=f4e288]:
+              - generic [ref=f4e289]: Datum
+              - textbox "Datum" [ref=f4e290]: 2026-08-15
+            - generic [ref=f4e291]:
+              - generic [ref=f4e292]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e293]
+              - generic [ref=f4e294]: alleen bij 2 dagen
+        - generic [ref=f4e295]:
+          - generic [ref=f4e296]:
+            - generic [ref=f4e297]: "3"
+            - generic [ref=f4e298]: ZO · 30.08.2026
+            - button "Verwijder deze beurs" [ref=f4e299] [cursor=pointer]: ✕
+          - generic [ref=f4e300]:
+            - generic [ref=f4e301]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e302]: RETRO GAMING BEURS
+          - generic [ref=f4e303]:
+            - generic [ref=f4e304]: Plaats
+            - textbox "Plaats" [ref=f4e305]: TILBURG
+          - generic [ref=f4e306]:
+            - generic [ref=f4e307]:
+              - generic [ref=f4e308]: Datum
+              - textbox "Datum" [ref=f4e309]: 2026-08-30
+            - generic [ref=f4e310]:
+              - generic [ref=f4e311]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e312]
+              - generic [ref=f4e313]: alleen bij 2 dagen
+        - generic [ref=f4e314]:
+          - generic [ref=f4e315]:
+            - generic [ref=f4e316]: "4"
+            - generic [ref=f4e317]: ZA · 12.09.2026
+            - button "Verwijder deze beurs" [ref=f4e318] [cursor=pointer]: ✕
+          - generic [ref=f4e319]:
+            - generic [ref=f4e320]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e321]: TCG COLLECTORSDAY
+          - generic [ref=f4e322]:
+            - generic [ref=f4e323]: Plaats
+            - textbox "Plaats" [ref=f4e324]: BRUSSEL
+          - generic [ref=f4e325]:
+            - generic [ref=f4e326]:
+              - generic [ref=f4e327]: Datum
+              - textbox "Datum" [ref=f4e328]: 2026-09-12
+            - generic [ref=f4e329]:
+              - generic [ref=f4e330]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e331]
+              - generic [ref=f4e332]: alleen bij 2 dagen
+        - generic [ref=f4e333]:
+          - generic [ref=f4e334]:
+            - generic [ref=f4e335]: "5"
+            - generic [ref=f4e336]: ZO · 13.09.2026
+            - button "Verwijder deze beurs" [ref=f4e337] [cursor=pointer]: ✕
+          - generic [ref=f4e338]:
+            - generic [ref=f4e339]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e340]: TCG DAY
+          - generic [ref=f4e341]:
+            - generic [ref=f4e342]: Plaats
+            - textbox "Plaats" [ref=f4e343]: ZOETERMEER
+          - generic [ref=f4e344]:
+            - generic [ref=f4e345]:
+              - generic [ref=f4e346]: Datum
+              - textbox "Datum" [ref=f4e347]: 2026-09-13
+            - generic [ref=f4e348]:
+              - generic [ref=f4e349]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e350]
+              - generic [ref=f4e351]: alleen bij 2 dagen
+        - generic [ref=f4e352]:
+          - generic [ref=f4e353]:
+            - generic [ref=f4e354]: "6"
+            - generic [ref=f4e355]: ZA–ZO · 26–27.09.2026
+            - button "Verwijder deze beurs" [ref=f4e356] [cursor=pointer]: ✕
+          - generic [ref=f4e357]:
+            - generic [ref=f4e358]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e359]: ASSEN CARDSHOW
+          - generic [ref=f4e360]:
+            - generic [ref=f4e361]: Plaats
+            - textbox "Plaats" [ref=f4e362]: ASSEN
+          - generic [ref=f4e363]:
+            - generic [ref=f4e364]:
+              - generic [ref=f4e365]: Datum
+              - textbox "Datum" [ref=f4e366]: 2026-09-26
+            - generic [ref=f4e367]:
+              - generic [ref=f4e368]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e369]: 2026-09-27
+              - generic [ref=f4e370]: alleen bij 2 dagen
+        - generic [ref=f4e371]:
+          - generic [ref=f4e372]:
+            - generic [ref=f4e373]: "7"
+            - generic [ref=f4e374]: ZA · 03.10.2026
+            - button "Verwijder deze beurs" [ref=f4e375] [cursor=pointer]: ✕
+          - generic [ref=f4e376]:
+            - generic [ref=f4e377]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e378]: CON-NXT
+          - generic [ref=f4e379]:
+            - generic [ref=f4e380]: Plaats
+            - textbox "Plaats" [ref=f4e381]: ESSEN
+          - generic [ref=f4e382]:
+            - generic [ref=f4e383]:
+              - generic [ref=f4e384]: Datum
+              - textbox "Datum" [ref=f4e385]: 2026-10-03
+            - generic [ref=f4e386]:
+              - generic [ref=f4e387]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e388]
+              - generic [ref=f4e389]: alleen bij 2 dagen
+        - generic [ref=f4e390]:
+          - generic [ref=f4e391]:
+            - generic [ref=f4e392]: "8"
+            - generic [ref=f4e393]: ZO · 04.10.2026
+            - button "Verwijder deze beurs" [ref=f4e394] [cursor=pointer]: ✕
+          - generic [ref=f4e395]:
+            - generic [ref=f4e396]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e397]: DRACOON COLLECTORS EVENT
+          - generic [ref=f4e398]:
+            - generic [ref=f4e399]: Plaats
+            - textbox "Plaats Staat nog open — drukt blauw af" [ref=f4e400]: ‹PLAATS›
+            - generic [ref=f4e401]: Staat nog open — drukt blauw af
+          - generic [ref=f4e402]:
+            - generic [ref=f4e403]:
+              - generic [ref=f4e404]: Datum
+              - textbox "Datum" [ref=f4e405]: 2026-10-04
+            - generic [ref=f4e406]:
+              - generic [ref=f4e407]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e408]
+              - generic [ref=f4e409]: alleen bij 2 dagen
+        - generic [ref=f4e410]:
+          - generic [ref=f4e411]:
+            - generic [ref=f4e412]: "9"
+            - generic [ref=f4e413]: ZA–ZO · 10–11.10.2026
+            - button "Verwijder deze beurs" [ref=f4e414] [cursor=pointer]: ✕
+          - generic [ref=f4e415]:
+            - generic [ref=f4e416]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e417]: CARDMANIA XXL
+          - generic [ref=f4e418]:
+            - generic [ref=f4e419]: Plaats
+            - textbox "Plaats" [ref=f4e420]: ROSMALEN
+          - generic [ref=f4e421]:
+            - generic [ref=f4e422]:
+              - generic [ref=f4e423]: Datum
+              - textbox "Datum" [ref=f4e424]: 2026-10-10
+            - generic [ref=f4e425]:
+              - generic [ref=f4e426]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e427]: 2026-10-11
+              - generic [ref=f4e428]: alleen bij 2 dagen
+        - generic [ref=f4e429]:
+          - generic [ref=f4e430]:
+            - generic [ref=f4e431]: "10"
+            - generic [ref=f4e432]: ZA · 17.10.2026
+            - button "Verwijder deze beurs" [ref=f4e433] [cursor=pointer]: ✕
+          - generic [ref=f4e434]:
+            - generic [ref=f4e435]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e436]: TCG ROYALE
+          - generic [ref=f4e437]:
+            - generic [ref=f4e438]: Plaats
+            - textbox "Plaats" [ref=f4e439]: HAARLEM
+          - generic [ref=f4e440]:
+            - generic [ref=f4e441]:
+              - generic [ref=f4e442]: Datum
+              - textbox "Datum" [ref=f4e443]: 2026-10-17
+            - generic [ref=f4e444]:
+              - generic [ref=f4e445]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e446]
+              - generic [ref=f4e447]: alleen bij 2 dagen
+        - generic [ref=f4e448]:
+          - generic [ref=f4e449]:
+            - generic [ref=f4e450]: "11"
+            - generic [ref=f4e451]: ZA · 24.10.2026
+            - button "Verwijder deze beurs" [ref=f4e452] [cursor=pointer]: ✕
+          - generic [ref=f4e453]:
+            - generic [ref=f4e454]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e455]: TCG MADNESS
+          - generic [ref=f4e456]:
+            - generic [ref=f4e457]: Plaats
+            - textbox "Plaats Staat nog open — drukt blauw af" [ref=f4e458]: ‹PLAATS, BELGIË›
+            - generic [ref=f4e459]: Staat nog open — drukt blauw af
+          - generic [ref=f4e460]:
+            - generic [ref=f4e461]:
+              - generic [ref=f4e462]: Datum
+              - textbox "Datum" [ref=f4e463]: 2026-10-24
+            - generic [ref=f4e464]:
+              - generic [ref=f4e465]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e466]
+              - generic [ref=f4e467]: alleen bij 2 dagen
+        - generic [ref=f4e468]:
+          - generic [ref=f4e469]:
+            - generic [ref=f4e470]: "12"
+            - generic [ref=f4e471]: ZO · 25.10.2026
+            - button "Verwijder deze beurs" [ref=f4e472] [cursor=pointer]: ✕
+          - generic [ref=f4e473]:
+            - generic [ref=f4e474]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e475]: COLLECTOR FANATICS
+          - generic [ref=f4e476]:
+            - generic [ref=f4e477]: Plaats
+            - textbox "Plaats" [ref=f4e478]: ETTEN-LEUR
+          - generic [ref=f4e479]:
+            - generic [ref=f4e480]:
+              - generic [ref=f4e481]: Datum
+              - textbox "Datum" [ref=f4e482]: 2026-10-25
+            - generic [ref=f4e483]:
+              - generic [ref=f4e484]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e485]
+              - generic [ref=f4e486]: alleen bij 2 dagen
+        - generic [ref=f4e487]:
+          - generic [ref=f4e488]:
+            - generic [ref=f4e489]: "13"
+            - generic [ref=f4e490]: ZA–ZO · 31.10–01.11.2026
+            - button "Verwijder deze beurs" [ref=f4e491] [cursor=pointer]: ✕
+          - generic [ref=f4e492]:
+            - generic [ref=f4e493]: Naam van de beurs
+            - textbox "Naam van de beurs" [ref=f4e494]: XCLUSIVE COLLECTORS
+          - generic [ref=f4e495]:
+            - generic [ref=f4e496]: Plaats
+            - textbox "Plaats" [ref=f4e497]: TILBURG
+          - generic [ref=f4e498]:
+            - generic [ref=f4e499]:
+              - generic [ref=f4e500]: Datum
+              - textbox "Datum" [ref=f4e501]: 2026-10-31
+            - generic [ref=f4e502]:
+              - generic [ref=f4e503]: T/m
+              - textbox "T/m alleen bij 2 dagen" [ref=f4e504]: 2026-11-01
+              - generic [ref=f4e505]: alleen bij 2 dagen
+        - button "+ Beurs toevoegen" [ref=f4e506] [cursor=pointer]
+      - heading "Controle" [level=2] [ref=f4e507]
+      - generic [ref=f4e508]:
+        - generic [ref=f4e509]:
+          - strong [ref=f4e510]: Instagram-naam
+          - text: De Instagram-naam is nog niet aangeleverd en staat als ‹@catchlabs› op de kaart.
+        - generic [ref=f4e511]:
+          - strong [ref=f4e512]: QR-link is een aanname
+          - text: De code wijst nu naar instagram.com/catchlabs — dat is niet bevestigd. Zet de echte link erachter (Tekst → Link achter de QR) voordat dit gepost wordt.
+        - generic [ref=f4e513]:
+          - strong [ref=f4e514]: Nog invullen
+          - text: "2 plaats(en) staan nog als ‹PLAATS› en drukken blauw af: DRACOON COLLECTORS EVENT, TCG MADNESS."
+        - generic [ref=f4e515]:
+          - strong [ref=f4e516]: "QR: 29 modules"
+          - text: Scherpe code. Houd de link kort — boven 42 tekens wordt elk blokje 14% kleiner.

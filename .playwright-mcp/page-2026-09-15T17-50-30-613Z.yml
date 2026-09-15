@@ -1,0 +1,153 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - generic [ref=f1e4]: CatchLabs
+    - link "Volledige agenda" [ref=f1e5] [cursor=pointer]:
+      - /url: agenda.html
+    - link "2 maanden" [ref=f1e6] [cursor=pointer]:
+      - /url: snapshot.html
+    - generic "Formaat" [ref=f1e7]:
+      - button "9:16" [ref=f1e8] [cursor=pointer]
+      - button "4:5" [ref=f1e9] [cursor=pointer]
+    - button "Voorbeeld" [ref=f1e11] [cursor=pointer]
+    - button "PNG downloaden" [ref=f1e13] [cursor=pointer]
+    - button "PDF / print" [ref=f1e14] [cursor=pointer]
+    - button "Opslaan" [ref=f1e16] [cursor=pointer]
+    - button "Openen" [ref=f1e17] [cursor=pointer]
+    - button "Deel link" [ref=f1e18] [cursor=pointer]
+    - button "Herstel" [ref=f1e19] [cursor=pointer]
+  - generic [ref=f1e20]:
+    - generic [ref=f1e23]:
+      - generic:
+        - generic: キャッチラボ
+        - generic [ref=f1e28]: コレクターのために。
+      - generic [ref=f1e29]:
+        - generic [ref=f1e30]: catchlabs
+        - generic [ref=f1e47]: BEURZEN
+        - generic [ref=f1e48]: DE KOMENDE TWEE MAANDEN
+        - generic [ref=f1e49]: SEP — OKT ’26
+        - generic [ref=f1e53]:
+          - generic [ref=f1e54]: SEPTEMBER
+          - generic [ref=f1e55]: "2026"
+        - generic [ref=f1e57]: "12.09"
+        - generic [ref=f1e59]: TCG COLLECTORSDAY
+        - generic [ref=f1e61]:
+          - generic [ref=f1e62]: Brussel
+          - generic [ref=f1e67]: ZA
+        - generic [ref=f1e69]: "13.09"
+        - generic [ref=f1e71]: TCG DAY
+        - generic [ref=f1e73]:
+          - generic [ref=f1e74]: Zoetermeer
+          - generic [ref=f1e79]: ZO
+        - generic [ref=f1e81]: 26–27.09
+        - generic [ref=f1e83]: ASSEN CARDSHOW
+        - generic [ref=f1e85]:
+          - generic [ref=f1e86]: Assen
+          - generic [ref=f1e91]: ZA–ZO
+        - generic [ref=f1e94]:
+          - generic [ref=f1e95]: OKTOBER
+          - generic [ref=f1e96]: "2026"
+        - generic [ref=f1e98]: "03.10"
+        - generic [ref=f1e100]: CON-NXT
+        - generic [ref=f1e102]:
+          - generic [ref=f1e103]: Essen
+          - generic [ref=f1e108]: ZA
+        - generic [ref=f1e110]: "04.10"
+        - generic [ref=f1e112]: DRACOON COLLECTORS EVENT
+        - generic [ref=f1e114]:
+          - generic [ref=f1e115]: ‹PLAATS›
+          - generic [ref=f1e120]: ZO
+        - generic [ref=f1e122]: 10–11.10
+        - generic [ref=f1e124]: CARDMANIA XXL
+        - generic [ref=f1e126]:
+          - generic [ref=f1e127]: Rosmalen
+          - generic [ref=f1e132]: ZA–ZO
+        - generic [ref=f1e134]: "17.10"
+        - generic [ref=f1e136]: TCG ROYALE
+        - generic [ref=f1e138]:
+          - generic [ref=f1e139]: Haarlem
+          - generic [ref=f1e144]: ZA
+        - generic [ref=f1e146]: "24.10"
+        - generic [ref=f1e148]: TCG MADNESS
+        - generic [ref=f1e150]:
+          - generic [ref=f1e151]: ‹PLAATS, BELGIË›
+          - generic [ref=f1e156]: ZA
+        - generic [ref=f1e158]: "25.10"
+        - generic [ref=f1e160]: COLLECTOR FANATICS
+        - generic [ref=f1e162]:
+          - generic [ref=f1e163]: Etten-Leur
+          - generic [ref=f1e168]: ZO
+        - generic [ref=f1e170]: 31.10–01.11
+        - generic [ref=f1e172]: XCLUSIVE COLLECTORS
+        - generic [ref=f1e174]:
+          - generic [ref=f1e175]: Tilburg
+          - generic [ref=f1e180]: ZA–ZO
+        - generic [ref=f1e183]:
+          - generic [ref=f1e184]: TOT OP DE BEURS
+          - generic [ref=f1e185]: Scan de code voor drops, restocks en alle kanalen.
+          - generic [ref=f1e186]:
+            - generic [ref=f1e187]: ‹@catchlabs›
+            - generic [ref=f1e188]: NEDERLAND · BELGIË
+      - generic "Bewerk deze beurs" [ref=f1e202] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e203] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e204] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e205] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e206] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e207] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e208] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e209] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e210] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e211] [cursor=pointer]
+    - complementary [ref=f1e212]:
+      - generic [ref=f1e672]:
+        - button "Beurzen" [ref=f1e673] [cursor=pointer]
+        - button "Kleuren" [ref=f1e674] [cursor=pointer]
+        - button "Tekst" [ref=f1e675] [cursor=pointer]
+      - generic [ref=f1e676]:
+        - heading "Bovenaan" [level=3] [ref=f1e677]
+        - generic [ref=f1e678]:
+          - generic [ref=f1e679]: Bovenregel
+          - textbox "Bovenregel" [ref=f1e680]: DE KOMENDE TWEE MAANDEN
+        - generic [ref=f1e681]:
+          - generic [ref=f1e682]: Kop
+          - textbox "Kop" [ref=f1e683]: BEURZEN
+        - paragraph [ref=f1e684]: De periode eronder wordt zelf berekend uit de datums.
+        - heading "Onderaan" [level=3] [ref=f1e685]
+        - generic [ref=f1e686]:
+          - generic [ref=f1e687]: Slotregel
+          - textbox "Slotregel" [ref=f1e688]: TOT OP DE BEURS
+        - generic [ref=f1e689]:
+          - generic [ref=f1e690]: Uitleg
+          - textbox "Uitleg" [ref=f1e691]: Scan de code voor drops, restocks en alle kanalen.
+        - generic [ref=f1e692]:
+          - generic [ref=f1e693]: Instagram-naam
+          - textbox "Instagram-naam Nog niet aangeleverd — drukt blauw af" [ref=f1e694]: ‹@catchlabs›
+          - generic [ref=f1e695]: Nog niet aangeleverd — drukt blauw af
+        - generic [ref=f1e696]:
+          - generic [ref=f1e697]: Regio
+          - textbox "Regio" [ref=f1e698]: NEDERLAND · BELGIË
+        - heading "Japans langs de rand" [level=3] [ref=f1e699]
+        - generic [ref=f1e700]:
+          - generic [ref=f1e701]: Bovenaan (in de witte plaat)
+          - textbox "Bovenaan (in de witte plaat)" [ref=f1e702]: キャッチラボ
+        - generic [ref=f1e703]:
+          - generic [ref=f1e704]: Zijkant
+          - textbox "Zijkant" [ref=f1e705]: コレクターのために。
+        - heading "Link achter de QR" [level=3] [ref=f1e706]
+        - generic [ref=f1e707]:
+          - generic [ref=f1e708]: Adres
+          - textbox "Adres Kort houden — dat scant het best" [ref=f1e709]: https://www.instagram.com/catchlabs
+          - generic [ref=f1e710]: Kort houden — dat scant het best
+      - heading "Controle" [level=2] [ref=f1e711]
+      - generic [ref=f1e712]:
+        - generic [ref=f1e713]:
+          - strong [ref=f1e714]: Instagram-naam
+          - text: De Instagram-naam is nog niet aangeleverd en staat als ‹@catchlabs› op de kaart.
+        - generic [ref=f1e715]:
+          - strong [ref=f1e716]: QR-link is een aanname
+          - text: De code wijst nu naar instagram.com/catchlabs — dat is niet bevestigd. Zet de echte link erachter (Tekst → Link achter de QR) voordat dit gepost wordt.
+        - generic [ref=f1e717]:
+          - strong [ref=f1e718]: Nog invullen
+          - text: "2 plaats(en) staan nog als ‹PLAATS› en drukken blauw af: DRACOON COLLECTORS EVENT, TCG MADNESS."
+        - generic [ref=f1e719]:
+          - strong [ref=f1e720]: "QR: 29 modules"
+          - text: Scherpe code. Houd de link kort — boven 42 tekens wordt elk blokje 14% kleiner.

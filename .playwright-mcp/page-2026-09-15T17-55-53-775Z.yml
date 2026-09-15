@@ -1,0 +1,19 @@
+- generic [ref=f5e2]:
+  - generic [ref=f5e3]: CatchLabs — beurzen & evenementen
+  - heading "Agenda maken" [level=1] [ref=f5e4]: Agendamaken
+  - paragraph [ref=f5e5]: Twee kaarten, één lijst met beurzen. Wat je bij de één invult, staat meteen goed bij de ander. Download als PNG voor Instagram.
+  - generic [ref=f5e7]:
+    - link [ref=f5e8] [cursor=pointer]:
+      - /url: agenda.html
+      - heading "Volledige agenda" [level=2] [ref=f5e9]
+      - paragraph [ref=f5e10]: Alle beurzen op één kaart, verdeeld over twee kolommen met een jaarbalk waar het jaar wisselt.
+    - link [ref=f5e11] [cursor=pointer]:
+      - /url: snapshot.html
+      - heading "2 maanden" [level=2] [ref=f5e12]
+      - paragraph [ref=f5e13]: Alleen wat er binnenkort is, groter gezet. De kaart om te posten als er een beurs aankomt.
+  - paragraph [ref=f5e14]:
+    - text: Je werk wordt bewaard in deze browser op dit apparaat. Wil je het doorsturen of op een andere computer verder? Gebruik
+    - strong [ref=f5e15]: Opslaan
+    - text: voor een bestand, of
+    - strong [ref=f5e16]: Deel link
+    - text: voor een link met alles erin.

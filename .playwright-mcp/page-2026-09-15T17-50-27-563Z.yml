@@ -1,0 +1,291 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - generic [ref=f1e4]: CatchLabs
+    - link "Volledige agenda" [ref=f1e5] [cursor=pointer]:
+      - /url: agenda.html
+    - link "2 maanden" [ref=f1e6] [cursor=pointer]:
+      - /url: snapshot.html
+    - generic "Formaat" [ref=f1e7]:
+      - button "9:16" [ref=f1e8] [cursor=pointer]
+      - button "4:5" [ref=f1e9] [cursor=pointer]
+    - button "Voorbeeld" [ref=f1e11] [cursor=pointer]
+    - button "PNG downloaden" [ref=f1e13] [cursor=pointer]
+    - button "PDF / print" [ref=f1e14] [cursor=pointer]
+    - button "Opslaan" [ref=f1e16] [cursor=pointer]
+    - button "Openen" [ref=f1e17] [cursor=pointer]
+    - button "Deel link" [ref=f1e18] [cursor=pointer]
+    - button "Herstel" [ref=f1e19] [cursor=pointer]
+  - generic [ref=f1e20]:
+    - generic [ref=f1e23]:
+      - generic:
+        - generic: キャッチラボ
+        - generic [ref=f1e28]: コレクターのために。
+      - generic [ref=f1e29]:
+        - generic [ref=f1e30]: catchlabs
+        - generic [ref=f1e47]: BEURZEN
+        - generic [ref=f1e48]: DE KOMENDE TWEE MAANDEN
+        - generic [ref=f1e49]: SEP — OKT ’26
+        - generic [ref=f1e53]:
+          - generic [ref=f1e54]: SEPTEMBER
+          - generic [ref=f1e55]: "2026"
+        - generic [ref=f1e57]: "12.09"
+        - generic [ref=f1e59]: TCG COLLECTORSDAY
+        - generic [ref=f1e61]:
+          - generic [ref=f1e62]: Brussel
+          - generic [ref=f1e67]: ZA
+        - generic [ref=f1e69]: "13.09"
+        - generic [ref=f1e71]: TCG DAY
+        - generic [ref=f1e73]:
+          - generic [ref=f1e74]: Zoetermeer
+          - generic [ref=f1e79]: ZO
+        - generic [ref=f1e81]: 26–27.09
+        - generic [ref=f1e83]: ASSEN CARDSHOW
+        - generic [ref=f1e85]:
+          - generic [ref=f1e86]: Assen
+          - generic [ref=f1e91]: ZA–ZO
+        - generic [ref=f1e94]:
+          - generic [ref=f1e95]: OKTOBER
+          - generic [ref=f1e96]: "2026"
+        - generic [ref=f1e98]: "03.10"
+        - generic [ref=f1e100]: CON-NXT
+        - generic [ref=f1e102]:
+          - generic [ref=f1e103]: Essen
+          - generic [ref=f1e108]: ZA
+        - generic [ref=f1e110]: "04.10"
+        - generic [ref=f1e112]: DRACOON COLLECTORS EVENT
+        - generic [ref=f1e114]:
+          - generic [ref=f1e115]: ‹PLAATS›
+          - generic [ref=f1e120]: ZO
+        - generic [ref=f1e122]: 10–11.10
+        - generic [ref=f1e124]: CARDMANIA XXL
+        - generic [ref=f1e126]:
+          - generic [ref=f1e127]: Rosmalen
+          - generic [ref=f1e132]: ZA–ZO
+        - generic [ref=f1e134]: "17.10"
+        - generic [ref=f1e136]: TCG ROYALE
+        - generic [ref=f1e138]:
+          - generic [ref=f1e139]: Haarlem
+          - generic [ref=f1e144]: ZA
+        - generic [ref=f1e146]: "24.10"
+        - generic [ref=f1e148]: TCG MADNESS
+        - generic [ref=f1e150]:
+          - generic [ref=f1e151]: ‹PLAATS, BELGIË›
+          - generic [ref=f1e156]: ZA
+        - generic [ref=f1e158]: "25.10"
+        - generic [ref=f1e160]: COLLECTOR FANATICS
+        - generic [ref=f1e162]:
+          - generic [ref=f1e163]: Etten-Leur
+          - generic [ref=f1e168]: ZO
+        - generic [ref=f1e170]: 31.10–01.11
+        - generic [ref=f1e172]: XCLUSIVE COLLECTORS
+        - generic [ref=f1e174]:
+          - generic [ref=f1e175]: Tilburg
+          - generic [ref=f1e180]: ZA–ZO
+        - generic [ref=f1e183]:
+          - generic [ref=f1e184]: TOT OP DE BEURS
+          - generic [ref=f1e185]: Scan de code voor drops, restocks en alle kanalen.
+          - generic [ref=f1e186]:
+            - generic [ref=f1e187]: ‹@catchlabs›
+            - generic [ref=f1e188]: NEDERLAND · BELGIË
+      - generic "Bewerk deze beurs" [ref=f1e202] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e203] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e204] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e205] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e206] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e207] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e208] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e209] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e210] [cursor=pointer]
+      - generic "Bewerk deze beurs" [ref=f1e211] [cursor=pointer]
+    - complementary [ref=f1e212]:
+      - generic [ref=f1e485]:
+        - button "Beurzen" [ref=f1e486] [cursor=pointer]
+        - button "Kleuren" [ref=f1e487] [cursor=pointer]
+        - button "Tekst" [ref=f1e488] [cursor=pointer]
+      - generic [ref=f1e489]:
+        - paragraph [ref=f1e490]: Ga met de muis over een regel om te zien welk onderdeel het is. Met ↺ zet je er één terug, onderaan zet je alles terug.
+        - heading "Vlak" [level=3] [ref=f1e491]
+        - generic [ref=f1e492]:
+          - generic [ref=f1e493]: Achtergrond
+          - textbox "Achtergrond hex" [ref=f1e494]: "#F7F6F3"
+          - textbox "Achtergrond" [ref=f1e495] [cursor=pointer]: "#f7f6f3"
+          - button "↺" [disabled] [ref=f1e496]
+        - generic [ref=f1e497]:
+          - generic [ref=f1e498]: Pokéball-patroon
+          - textbox "Pokéball-patroon hex" [ref=f1e499]: "#111111"
+          - textbox "Pokéball-patroon" [ref=f1e500] [cursor=pointer]: "#111111"
+          - button "↺" [disabled] [ref=f1e501]
+        - generic [ref=f1e502]:
+          - generic [ref=f1e503]: Rode zwaai
+          - textbox "Rode zwaai hex" [ref=f1e504]: "#C8161D"
+          - textbox "Rode zwaai" [ref=f1e505] [cursor=pointer]: "#c8161d"
+          - button "↺" [disabled] [ref=f1e506]
+        - generic [ref=f1e507]:
+          - generic [ref=f1e508]: Zwarte hoek
+          - textbox "Zwarte hoek hex" [ref=f1e509]: "#111111"
+          - textbox "Zwarte hoek" [ref=f1e510] [cursor=pointer]: "#111111"
+          - button "↺" [disabled] [ref=f1e511]
+        - generic [ref=f1e512]:
+          - generic [ref=f1e513]: Witte label-plaat
+          - textbox "Witte label-plaat hex" [ref=f1e514]: "#FFFFFF"
+          - textbox "Witte label-plaat" [ref=f1e515] [cursor=pointer]: "#ffffff"
+          - button "↺" [disabled] [ref=f1e516]
+        - generic [ref=f1e517]:
+          - generic [ref=f1e518]: Japans (bovenaan)
+          - textbox "Japans (bovenaan) hex" [ref=f1e519]: "#111111"
+          - textbox "Japans (bovenaan)" [ref=f1e520] [cursor=pointer]: "#111111"
+          - button "↺" [disabled] [ref=f1e521]
+        - generic [ref=f1e522]:
+          - generic [ref=f1e523]: Japans (zijkant)
+          - textbox "Japans (zijkant) hex" [ref=f1e524]: "#6E6E6E"
+          - textbox "Japans (zijkant)" [ref=f1e525] [cursor=pointer]: "#6e6e6e"
+          - button "↺" [disabled] [ref=f1e526]
+        - heading "Kop bovenaan" [level=3] [ref=f1e527]
+        - generic [ref=f1e528]:
+          - generic [ref=f1e529]: "Logo: rood (alleen placeholder)"
+          - 'textbox "Logo: rood (alleen placeholder) hex" [ref=f1e530]': "#C8161D"
+          - 'textbox "Logo: rood (alleen placeholder)" [ref=f1e531] [cursor=pointer]': "#c8161d"
+          - button "↺" [disabled] [ref=f1e532]
+        - generic [ref=f1e533]:
+          - generic [ref=f1e534]: "Logo: zwart (alleen placeholder)"
+          - 'textbox "Logo: zwart (alleen placeholder) hex" [ref=f1e535]': "#111111"
+          - 'textbox "Logo: zwart (alleen placeholder)" [ref=f1e536] [cursor=pointer]': "#111111"
+          - button "↺" [disabled] [ref=f1e537]
+        - generic [ref=f1e538]:
+          - generic [ref=f1e539]: Ornament onder logo
+          - textbox "Ornament onder logo hex" [ref=f1e540]: "#C8161D"
+          - textbox "Ornament onder logo" [ref=f1e541] [cursor=pointer]: "#c8161d"
+          - button "↺" [disabled] [ref=f1e542]
+        - generic [ref=f1e543]:
+          - generic [ref=f1e544]: Kop (BEURZEN)
+          - textbox "Kop (BEURZEN) hex" [ref=f1e545]: "#111111"
+          - textbox "Kop (BEURZEN)" [ref=f1e546] [cursor=pointer]: "#111111"
+          - button "↺" [disabled] [ref=f1e547]
+        - generic [ref=f1e548]:
+          - generic [ref=f1e549]: Rode regel eronder
+          - textbox "Rode regel eronder hex" [ref=f1e550]: "#C8161D"
+          - textbox "Rode regel eronder" [ref=f1e551] [cursor=pointer]: "#c8161d"
+          - button "↺" [disabled] [ref=f1e552]
+        - generic [ref=f1e553]:
+          - generic [ref=f1e554]: Periode
+          - textbox "Periode hex" [ref=f1e555]: "#6E6E6E"
+          - textbox "Periode" [ref=f1e556] [cursor=pointer]: "#6e6e6e"
+          - button "↺" [disabled] [ref=f1e557]
+        - generic [ref=f1e558]:
+          - generic [ref=f1e559]: Lijn onder de kop
+          - textbox "Lijn onder de kop hex" [ref=f1e560]: "#C8161D"
+          - textbox "Lijn onder de kop" [ref=f1e561] [cursor=pointer]: "#c8161d"
+          - button "↺" [disabled] [ref=f1e562]
+        - heading "De lijst" [level=3] [ref=f1e563]
+        - generic [ref=f1e564]:
+          - generic [ref=f1e565]: Datum
+          - textbox "Datum hex" [ref=f1e566]: "#C8161D"
+          - textbox "Datum" [ref=f1e567] [cursor=pointer]: "#c8161d"
+          - button "↺" [disabled] [ref=f1e568]
+        - generic [ref=f1e569]:
+          - generic [ref=f1e570]: Naam beurs
+          - textbox "Naam beurs hex" [ref=f1e571]: "#111111"
+          - textbox "Naam beurs" [ref=f1e572] [cursor=pointer]: "#111111"
+          - button "↺" [disabled] [ref=f1e573]
+        - generic [ref=f1e574]:
+          - generic [ref=f1e575]: Plaats
+          - textbox "Plaats hex" [ref=f1e576]: "#6E6E6E"
+          - textbox "Plaats" [ref=f1e577] [cursor=pointer]: "#6e6e6e"
+          - button "↺" [disabled] [ref=f1e578]
+        - generic [ref=f1e579]:
+          - generic [ref=f1e580]: Balletje voor de plaats
+          - textbox "Balletje voor de plaats hex" [ref=f1e581]: "#C8161D"
+          - textbox "Balletje voor de plaats" [ref=f1e582] [cursor=pointer]: "#c8161d"
+          - button "↺" [disabled] [ref=f1e583]
+        - generic [ref=f1e584]:
+          - generic [ref=f1e585]: Weekdag
+          - textbox "Weekdag hex" [ref=f1e586]: "#6E6E6E"
+          - textbox "Weekdag" [ref=f1e587] [cursor=pointer]: "#6e6e6e"
+          - button "↺" [disabled] [ref=f1e588]
+        - generic [ref=f1e589]:
+          - generic [ref=f1e590]: Lijn tussen beurzen
+          - textbox "Lijn tussen beurzen hex" [ref=f1e591]: "#E3C2C3"
+          - textbox "Lijn tussen beurzen" [ref=f1e592] [cursor=pointer]: "#e3c2c3"
+          - button "↺" [disabled] [ref=f1e593]
+        - generic [ref=f1e594]:
+          - generic [ref=f1e595]: Jaar / maand
+          - textbox "Jaar / maand hex" [ref=f1e596]: "#111111"
+          - textbox "Jaar / maand" [ref=f1e597] [cursor=pointer]: "#111111"
+          - button "↺" [disabled] [ref=f1e598]
+        - generic [ref=f1e599]:
+          - generic [ref=f1e600]: Seizoen / jaartal
+          - textbox "Seizoen / jaartal hex" [ref=f1e601]: "#C8161D"
+          - textbox "Seizoen / jaartal" [ref=f1e602] [cursor=pointer]: "#c8161d"
+          - button "↺" [disabled] [ref=f1e603]
+        - generic [ref=f1e604]:
+          - generic [ref=f1e605]: Lijn van de balk
+          - textbox "Lijn van de balk hex" [ref=f1e606]: "#C8161D"
+          - textbox "Lijn van de balk" [ref=f1e607] [cursor=pointer]: "#c8161d"
+          - button "↺" [disabled] [ref=f1e608]
+        - generic [ref=f1e609]:
+          - generic [ref=f1e610]: Streepje bij de balk
+          - textbox "Streepje bij de balk hex" [ref=f1e611]: "#111111"
+          - textbox "Streepje bij de balk" [ref=f1e612] [cursor=pointer]: "#111111"
+          - button "↺" [disabled] [ref=f1e613]
+        - generic [ref=f1e614]:
+          - generic [ref=f1e615]: Nog invullen (‹PLAATS›)
+          - textbox "Nog invullen (‹PLAATS›) hex" [ref=f1e616]: "#1E5BD8"
+          - textbox "Nog invullen (‹PLAATS›)" [ref=f1e617] [cursor=pointer]: "#1e5bd8"
+          - button "↺" [disabled] [ref=f1e618]
+        - heading "Onderaan" [level=3] [ref=f1e619]
+        - generic [ref=f1e620]:
+          - generic [ref=f1e621]: Slotregel
+          - textbox "Slotregel hex" [ref=f1e622]: "#111111"
+          - textbox "Slotregel" [ref=f1e623] [cursor=pointer]: "#111111"
+          - button "↺" [disabled] [ref=f1e624]
+        - generic [ref=f1e625]:
+          - generic [ref=f1e626]: Uitleg
+          - textbox "Uitleg hex" [ref=f1e627]: "#6E6E6E"
+          - textbox "Uitleg" [ref=f1e628] [cursor=pointer]: "#6e6e6e"
+          - button "↺" [disabled] [ref=f1e629]
+        - generic [ref=f1e630]:
+          - generic [ref=f1e631]: Instagram-naam
+          - textbox "Instagram-naam hex" [ref=f1e632]: "#C8161D"
+          - textbox "Instagram-naam" [ref=f1e633] [cursor=pointer]: "#c8161d"
+          - button "↺" [disabled] [ref=f1e634]
+        - generic [ref=f1e635]:
+          - generic [ref=f1e636]: Regio
+          - textbox "Regio hex" [ref=f1e637]: "#6E6E6E"
+          - textbox "Regio" [ref=f1e638] [cursor=pointer]: "#6e6e6e"
+          - button "↺" [disabled] [ref=f1e639]
+        - generic [ref=f1e640]:
+          - generic [ref=f1e641]: Lijn erboven
+          - textbox "Lijn erboven hex" [ref=f1e642]: "#C8161D"
+          - textbox "Lijn erboven" [ref=f1e643] [cursor=pointer]: "#c8161d"
+          - button "↺" [disabled] [ref=f1e644]
+        - generic [ref=f1e645]:
+          - generic [ref=f1e646]: QR-kader
+          - textbox "QR-kader hex" [ref=f1e647]: "#C8161D"
+          - textbox "QR-kader" [ref=f1e648] [cursor=pointer]: "#c8161d"
+          - button "↺" [disabled] [ref=f1e649]
+        - generic [ref=f1e650]:
+          - generic [ref=f1e651]: QR-blokjes
+          - textbox "QR-blokjes hex" [ref=f1e652]: "#111111"
+          - textbox "QR-blokjes" [ref=f1e653] [cursor=pointer]: "#111111"
+          - button "↺" [disabled] [ref=f1e654]
+        - generic [ref=f1e655]:
+          - generic [ref=f1e656]: QR-ondergrond
+          - textbox "QR-ondergrond hex" [ref=f1e657]: "#FFFFFF"
+          - textbox "QR-ondergrond" [ref=f1e658] [cursor=pointer]: "#ffffff"
+          - button "↺" [disabled] [ref=f1e659]
+        - button "Herstel huisstijlkleuren" [ref=f1e660] [cursor=pointer]
+        - paragraph [ref=f1e661]: "Zodra het echte logobestand erin zit, doen de twee logo-kleuren niets meer met het logo: dat is het aangeleverde bestand en dat wordt niet hertint."
+      - heading "Controle" [level=2] [ref=f1e662]
+      - generic [ref=f1e663]:
+        - generic [ref=f1e664]:
+          - strong [ref=f1e665]: Instagram-naam
+          - text: De Instagram-naam is nog niet aangeleverd en staat als ‹@catchlabs› op de kaart.
+        - generic [ref=f1e666]:
+          - strong [ref=f1e667]: QR-link is een aanname
+          - text: De code wijst nu naar instagram.com/catchlabs — dat is niet bevestigd. Zet de echte link erachter (Tekst → Link achter de QR) voordat dit gepost wordt.
+        - generic [ref=f1e668]:
+          - strong [ref=f1e669]: Nog invullen
+          - text: "2 plaats(en) staan nog als ‹PLAATS› en drukken blauw af: DRACOON COLLECTORS EVENT, TCG MADNESS."
+        - generic [ref=f1e670]:
+          - strong [ref=f1e671]: "QR: 29 modules"
+          - text: Scherpe code. Houd de link kort — boven 42 tekens wordt elk blokje 14% kleiner.

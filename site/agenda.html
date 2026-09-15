@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CatchLabs — Volledige agenda</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%23111%27/%3E%3Ccircle cx=%2716%27 cy=%2716%27 r=%2710%27 fill=%27%23C8161D%27/%3E%3Cpath d=%27M6 16h20%27 stroke=%27%23F7F6F3%27 stroke-width=%273%27/%3E%3Ccircle cx=%2716%27 cy=%2716%27 r=%273.5%27 fill=%27%23F7F6F3%27/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/system.css">
+<link rel="stylesheet" href="css/editor.css">
+</head>
+<body>
+<div class="app">
+  <header class="bar">
+    <span class="mark">CatchLabs</span>
+    <a class="tab on" href="agenda.html">Volledige agenda</a>
+    <a class="tab" href="snapshot.html">2 maanden</a>
+    <span class="spacer"></span>
+    <span class="seg" role="group" aria-label="Formaat">
+      <button class="btn" type="button" data-format="story" title="Story, 1080 × 1920">9:16</button>
+      <button class="btn" type="button" data-format="post" title="Post, 1080 × 1350">4:5</button>
+    </span>
+    <span class="sep"></span>
+    <button class="btn" type="button" id="preview">Voorbeeld</button>
+    <span class="sep"></span>
+    <button class="btn primary" type="button" id="png">PNG downloaden</button>
+    <button class="btn" type="button" id="pdf">PDF / print</button>
+    <span class="sep"></span>
+    <button class="btn" type="button" id="save">Opslaan</button>
+    <button class="btn" type="button" id="open">Openen</button>
+    <button class="btn" type="button" id="share">Deel link</button>
+    <button class="btn" type="button" id="reset">Herstel</button>
+  </header>
+  <div class="main">
+    <div class="stage">
+      <div class="stage-inner"><div class="page"></div></div>
+      <div class="stage-tools chrome-ui" role="group" aria-label="Zoom">
+        <button class="zb" type="button" data-zoom="fit" title="Hele kaart in beeld">Passend</button>
+        <button class="zb" type="button" data-zoom="width" title="Kaart op volle breedte, scrollt">Breedte</button>
+        <button class="zb" type="button" data-zoom="1" title="Ware grootte, 1080 px breed">100%</button>
+      </div>
+    </div>
+    <aside class="panel" id="panel"></aside>
+  </div>
+</div>
+
+<script src="js/vendor/qrcode.min.js"></script>
+<script src="js/vendor/html-to-image.min.js"></script>
+<script src="js/brand.js"></script>
+<script src="js/store.js"></script>
+<script src="js/editor.js"></script>
+<script src="js/card.js"></script>
+<script src="js/panel.js"></script>
+<script src="js/agenda.js"></script>
+<script>
+  /* No `extra` here: the Beurzen section explains itself, and a
+     second hint above it just pushed the list further down. */
+  AgendaPanel.init({ mount: '#panel' });
+  Agenda.init();
+  Editor.wireBar({ filename: 'catchlabs-agenda.png', onData: function () { Agenda.render(); } });
+</script>
+</body>
+</html>
