@@ -82,13 +82,18 @@
     return '<svg width="' + W + '" height="' + H + '" viewBox="0 0 ' + W + ' ' + H +
       '" style="position:absolute;left:0;top:0">' +
       '<defs>' +
-        /* the mask: black in the middle (hidden), white at the edges (shown) */
+        /* The fade is a sheet of paper laid over the streaks, solid in
+           the middle and clear at the edges. Not an SVG mask: the PNG
+           writer (html-to-image) drops masks when it rasterises, so
+           the export showed every streak at full strength across the
+           list while the browser looked fine. A gradient fill survives. */
         '<radialGradient id="stFade" cx="0.5" cy="0.46" r="0.62">' +
-          '<stop offset="0" stop-color="#000"/><stop offset="0.5" stop-color="#000"/>' +
-          '<stop offset="1" stop-color="#fff"/></radialGradient>' +
-        '<mask id="stMask"><rect width="' + W + '" height="' + H + '" fill="url(#stFade)"/></mask>' +
+          '<stop offset="0" stop-color="' + paper + '" stop-opacity="1"/>' +
+          '<stop offset="0.5" stop-color="' + paper + '" stop-opacity="1"/>' +
+          '<stop offset="1" stop-color="' + paper + '" stop-opacity="0"/></radialGradient>' +
       '</defs>' +
-      '<g mask="url(#stMask)"><g transform="rotate(38 540 ' + (H / 2) + ')">' + g + '</g></g>' +
+      '<g transform="rotate(38 540 ' + (H / 2) + ')">' + g + '</g>' +
+      '<rect width="' + W + '" height="' + H + '" fill="url(#stFade)"/>' +
       '</svg>';
   }
 
